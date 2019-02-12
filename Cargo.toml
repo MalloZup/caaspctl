@@ -1,0 +1,6 @@
+[package]
+name = "caaspctl"
+version = "0.1.0"
+authors = ["dmaiocchi <dmaiocchi@suse.com>"]
+
+[dependencies]
